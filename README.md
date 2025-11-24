@@ -1,4 +1,4 @@
-## Understanding Refusal in Language Models with Sparse Autoencoders
+## Understanding Refusal in Language Models with Sparse Autoencoders (Accepted to EMNLP 2025!)
 
 ## Setup
 
